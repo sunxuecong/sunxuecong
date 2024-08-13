@@ -28,9 +28,7 @@ This is <a href="https://sunxuecong.github.io/github-actions-demo/" target="_bla
 <code><img height="36" src="./svg/javaScript.svg" alt="JavaScript" title="JavaScript"/></code>
 <code><img height="36" src="./svg/typescript.svg" alt="TypeScript" title="TypeScript"/></code>
 <code><img height="36" src="./svg/Vue.svg" alt="Vue" title="Vue"/></code>
-
 <code><img height="36" src="./svg/react.svg" alt="React" title="React"/></code>
-
 <code><img height="36" src="./svg/uni-app.svg" alt="uni-app" title="uni-app"/></code>
 <code><img height="36" src="./svg/微信小程序.svg" alt="微信小程序" title="微信小程序"/></code>
 <code><img height="36" src="./svg/unocss.svg" alt="UnoCSS" title="UnoCSS"/></code>
@@ -92,7 +90,6 @@ This is <a href="https://sunxuecong.github.io/github-actions-demo/" target="_bla
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <code><img height="36" src="./svg/electron.svg" alt="Electron" title="Electron"/></code>
-
 <code><img height="36" src="./svg/cplusplus.svg" alt="C++" title="C++"/></code>
 <code><img height="36" src="./svg/python.svg" alt="Python" title="Python"/></code>
 <code><img height="36" src="./svg/PS.svg" alt="PS" title="PS"/></code>
