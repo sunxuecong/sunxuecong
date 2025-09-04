@@ -12,7 +12,7 @@
 
 
 
-- 🤦‍♂️ 我是Sean Sun
+- 🤦‍♂️ 我是Timmy Sun
 - 🧑‍💻 一枚前端开发工程师，base深圳
 - 📧 邮箱：sunxc0713@163.com
 - 🔗 博客：https://sunxuecong.github.io/github-actions-demo
